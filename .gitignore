@@ -2,5 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/GithubTest/src/GithubTest/obj/Debug/net452
-/GithubTest/src/GithubTest/bin/Debug/net452
+/GithubTest/src/GithubTest/obj/
+/GithubTest/src/GithubTest/bin/
