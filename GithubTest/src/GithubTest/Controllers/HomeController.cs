@@ -10,6 +10,7 @@ namespace GithubTest.Controllers
     {
         public IActionResult Index()
         {
+            var test = "123123";
             return View();
         }
 
